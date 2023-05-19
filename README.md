@@ -27,3 +27,7 @@ Discussion
 This lab introduces you to an easier way to describe finite state machines in VHDL. Two FSMs are used, 
 a display FSM that drives the LEDs to show the pong game, based on inputs from a control FSM that 
 controls the game. This is the first of a two-part lab for this module
+
+[Lab15a_TopLevel.pdf](https://github.com/cjdrangel209/CMPEN270-Lab15a-PongPart1/files/11512640/Lab15a_TopLevel.pdf)
+[Lab15a_ControlFSM.pdf](https://github.com/cjdrangel209/CMPEN270-Lab15a-PongPart1/files/11512641/Lab15a_ControlFSM.pdf)
+[Lab15a_DisplayFSM.pdf](https://github.com/cjdrangel209/CMPEN270-Lab15a-PongPart1/files/11512642/Lab15a_DisplayFSM.pdf)
